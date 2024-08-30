@@ -9,7 +9,7 @@ try:
         host='localhost',
         user='root',
         password='',  # Update if your MySQL root user has a password
-        port=3307     # Default MySQL port; update if necessary
+        port=3307     # Default mostly #3306
     )
 
 
