@@ -12,6 +12,8 @@ try:
         port=3307     # Default MySQL port; update if necessary
     )
 
+
+    
     if connection.is_connected():
         print("Connected to MySQL Server")
 
